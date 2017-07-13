@@ -1,16 +1,16 @@
 {
-	"name": "The ExiledRP Overhaul 0.2.5",
+	"name": "The ExiledRP Overhaul 0.3.2",
 	"description": "https://github.com/Tirocupidus/TheExiledRPOverhaul/wiki",
-	"changeNote": "",
+	"changeNote": "* Turtle fat has its icon back. How'd that happen?!",
 	"author": "Created by NorseKorean; Maintained by Tirocupidus",
 	"authorUrl": "https://github.com/Tirocupidus",
 	"versionMajor": 0,
-	"versionMinor": 2,
-	"versionBuild": 5,
+	"versionMinor": 3,
+	"versionBuild": 2,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "948330116",
 	"steamVisibility": 0,
 	"folderName": "TheExiledRPOverhaul",
-	"revisionNumber": 30758,
-	"snapshotId": 12173
+	"revisionNumber": 51872,
+	"snapshotId": 12784
 }
