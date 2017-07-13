@@ -1,16 +1,16 @@
 {
-	"name": "The ExiledRP Overhaul 0.2.5",
-	"description": "The Exiled RP Overhaul (TERPO) is a mod made for The ExiledRP-PVP server by NorseKorean and art support by Sir Vival, now updated by Tirocupidus. We are a private, heavily RP focused server found here: http://exiledce.enjin.com. It is passworded, and one must submit an application before joining. However, this is an immersive, mature RP server with strict application guidelines.\r\n\r\nYou may use this mod for your own server, but it will not be customized for your use.\r\n\r\nThe changes are as follows:\r\n\r\n[h1]Crafting[/h1]\r\n\r\n* Feats are split into multiple tiers of the following professions: Alchemist, Armorer, Blacksmith, Engineer, Native, Priests (one for each), Stonemason, Weaver, Woodsman. Getting T3 in one profession will use all 354 of your points at level 50. Point costs are 22 for T1, 73 for T2, and 164 for T3. This allows you to get T3 in one profession and T2 in another, or spread them out more. Many recipes for a profession will require items crafted by other professions to encourage trade.\r\n* Items above stone are not repairable. This is to promote trade.\r\n* Making shaped wood provides bark.\r\n* All potions, poisons now require a glass flask.\r\n\r\n[h1]Harvesting[/h1]\r\n\r\n* Rock nodes give more iron and coal to stem the tide of everyone rushing up to the north.\r\n\r\n[h1]Items[/h1]\r\n\r\n* Ambrosia is no longer a healing item. It is a superfood & drink, like Yog purified flesh.\r\n* Yellow Lotus Potion is out of the game. Still spawnable by admin to fix mistakes.\r\n* Weapon damage is lowered (see Attributes)\r\n* Heavy Armor is heavier--if you want to wear it effectively, you need to invest some points into encumbrance.\r\n\r\n[h1]Attributes[/h1]\r\n\r\n* Strength, Accuracy, and Agility have enhanced effect to increase damage (str, acc) and increase armor (agi).\r\n\r\n[h1]Mod Compatibility[/h1]\r\n\r\n* This mod completely remakes the feats, so with the exceptions listed below, any mods that add feats will not play well with TERPO.\r\n* Support for Pythagoras and Sir Vival's The Exiled Enhanced Tableware Mod",
-	"changeNote": "",
+	"name": "The ExiledRP Overhaul 0.3.2",
+	"description": "https://github.com/Tirocupidus/TheExiledRPOverhaul/wiki",
+	"changeNote": "* Turtle fat has its icon back. How'd that happen?!",
 	"author": "Created by NorseKorean; Maintained by Tirocupidus",
-	"authorUrl": "",
+	"authorUrl": "https://github.com/Tirocupidus",
 	"versionMajor": 0,
-	"versionMinor": 2,
-	"versionBuild": 5,
+	"versionMinor": 3,
+	"versionBuild": 2,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "948330116",
 	"steamVisibility": 0,
 	"folderName": "TheExiledRPOverhaul",
-	"revisionNumber": 30758,
-	"snapshotId": 12173
+	"revisionNumber": 51872,
+	"snapshotId": 12784
 }
