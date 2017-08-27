@@ -1,16 +1,16 @@
 {
-	"name": "The ExiledRP Overhaul 0.4.1",
-	"description": "The Exiled RP Overhaul (TERPO) is a mod that incorporates various changes to suit The Exiled RPPVP server. It was created by NorseKorean and is being maintained by Tirocupidus.\r\n\r\n* [url=http://exiledce.enjin.com/]The Exiled RPPVP website[/url]\r\n* [url=https://github.com/Tirocupidus/TheExiledRPOverhaul/wiki]TERPO website[/url]",
-	"changeNote": "* Uuugh. Character swapper interface is useable again.",
+	"name": "The ExiledRP Overhaul 0.8.5",
+	"description": "The Exiled RP Overhaul (TERPO) is a mod that incorporates various changes to suit The Exiled RPPVP server. It was created by NorseKorean and is being maintained by Tirocupidus.\r\n\r\nThe Exiled RPPVP is a an immersive text-only RP server that also uses PvP and character permadeath. Permadeath isn't something we take lightly, and we expect it to be part of our focus on meaningful RP. Take a look at our site link if you'd like to know more. [url=http://exiledce.enjin.com/]The Exiled RPPVP website[/url].\r\n\r\nHere's an overview of some key and unique features of TERPO. You can find the full list on the [url=https://github.com/Tirocupidus/TheExiledRPOverhaul/wiki]TERPO website[/url].\r\n\r\n* Feats are completely redesigned into professions, such as Blacksmith, Engineer, and Weaver.\r\n* Attributes are enhanced so that each point adds more to your bonuses.\r\n* Thralls can make their special recipes regardless of whether or not you have knowledge of their craft, and Legendary thralls have added recipes so they can make refined ingredients, such as iron reinforcements and shaped wood.\r\n* A new Legendary type of tanner called a Parchmenter has a special recipe to craft parchment, which you can write on and save, sending it as a message, give instructions to someone, or anything else you can imagine using it for.",
+	"changeNote": "* Recipes have icons again. I'd say \"oops\" but I swear it wasn't me!",
 	"author": "Created by NorseKorean; Maintained by Tirocupidus",
 	"authorUrl": "https://github.com/Tirocupidus",
 	"versionMajor": 0,
-	"versionMinor": 4,
-	"versionBuild": 1,
+	"versionMinor": 8,
+	"versionBuild": 5,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "948330116",
 	"steamVisibility": 0,
 	"folderName": "TheExiledRPOverhaul",
-	"revisionNumber": 51872,
-	"snapshotId": 12784
+	"revisionNumber": 64403,
+	"snapshotId": 13528
 }
